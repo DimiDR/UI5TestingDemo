@@ -11,3 +11,7 @@ https://atos-information.eu10.hanacloudservices.cloud.sap/sap/fpa/ui/app.html#/s
 https://blogs.sap.com/2020/12/27/automated-testing-with-ui5/
 
 https://blogs.sap.com/2021/01/08/part-6-e2e-testing-of-sap-analytics-cloud-sap-lumira/
+
+# Github
+
+https://github.com/timostark/ui5-testcafe-selector-utils

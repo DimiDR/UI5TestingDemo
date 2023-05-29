@@ -1,0 +1,13 @@
+{
+  "url": "https://sapui5.hana.ondemand.com/test-resources/sap/m/demokit/cart/webapp/index.html?sap-ui-theme=sap_fiori_3",
+  "users": {
+    "UserRole": {
+      "DEV": {
+        "FIORI": {
+          "userId": "test",
+          "password": "hello"
+        }
+      }
+    }
+  }
+}

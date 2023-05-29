@@ -1,0 +1,13 @@
+{
+  "name": "sac-ui5-e2e-testing",
+  "description": "recreation of the blog",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "testcafe": "^2.6.0",
+    "typescript": "^5.0.4",
+    "ui5-testcafe-selector-utils": "^0.0.365"
+  },
+  "scripts": {
+    "demo1": "testcafe chrome first.ts --selector-timeout 30000"
+  }
+}
